@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/simulator.dir/cpp/app/main.cpp.o -o simulator 
